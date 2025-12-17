@@ -82,3 +82,34 @@ Le **Kanban** est utilisé en complément pour le suivi quotidien et la gestion 
 
 Les KPI permettent de mesurer l’efficacité du projet
 
+⏱️ KPI Planning
+
+Taux d’avancement (%) : tâches réalisées / tâches totales
+
+Respect des délais : tâches livrées à temps vs en retard
+
+Écart planning : prévu vs réel
+
+🧑‍💻 KPI Productivité
+
+Vélocité de l’équipe : nombre de tâches terminées par sprint
+
+Lead Time : temps entre création et finalisation d’une tâche
+
+Work In Progress (WIP) : nombre de tâches en cours
+
+🔍 KPI Qualité
+
+Taux de retours / corrections
+
+Nombre de tâches bloquées
+
+Respect des exigences métiers et réglementaires
+
+💼 KPI Business / Organisation
+
+Satisfaction des parties prenantes
+
+Adéquation avec les contraintes industrielles
+
+Impact sur les processus internes
