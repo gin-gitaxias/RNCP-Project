@@ -157,7 +157,7 @@
     </section>
 
     <div class="footer">
-        Projet RNCP - IndusFab - Document de Synthèse - 2024
+        Projet RNCP - IndusFab - Document de Synthèse - 2025
     </div>
 </div>
 
